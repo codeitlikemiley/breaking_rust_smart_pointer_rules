@@ -1,5 +1,11 @@
 # RC<T> in Rust
 
+https://www.youtube.com/watch?v=KYJ95TxEC18&t=341s
+
+// next : https://www.youtube.com/watch?v=4YAmpHMl1Z0
+// main playlist: https://www.youtube.com/playlist?list=PLK_g1a_cAfaaAO6io1Tluy7EZXhAAK1lC
+// others: https://www.youtube.com/watch?v=o-kDVP1U3Do
+
 ## Rc<T> when to use?
 
 > It's used to keep track of the number of references to a value, which allows you to have multiple owners of data.
